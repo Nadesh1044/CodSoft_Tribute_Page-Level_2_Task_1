@@ -1,0 +1,21 @@
+.image{
+  display: block;
+  margin-left: 500px;
+}
+.des{
+	margin-left: 200px;
+	width: 900px;
+	background-color: palegreen;
+	font-size: 20px;
+}
+
+.full{
+	background-color: green;
+}
+.start{
+	color: black;
+    margin-left: 540px;
+}
+.bottom{
+	margin-left:400px;
+}
